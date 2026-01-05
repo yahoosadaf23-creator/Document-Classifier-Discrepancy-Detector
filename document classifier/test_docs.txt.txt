@@ -1,0 +1,16 @@
+ADDITIONAL TEST DOCUMENTS:
+
+1. Strict Policy:
+"Absolutely no refunds or exchanges. All sales are final."
+
+2. Lenient Policy:
+"We offer 30-day returns for any reason. Just bring your item back."
+
+3. Conditional Policy:
+"Refunds available within 14 days for defective items only with original packaging."
+
+4. Confusing Policy:
+"Customers may request refunds within 7 business days, but approval is at manager discretion and requires both receipt and original payment method."
+
+5. Simple Policy:
+"7-day refund with receipt."

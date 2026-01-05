@@ -1,0 +1,16 @@
+DOCUMENT ANALYSIS RESULTS
+==================================================
+
+Documents Analyzed: 3
+
+1. Summary: 
+2. Summary: 
+3. Summary: 
+
+Overall Similarity: 0.0%
+
+Discrepancies Detected:
+None
+
+Alignment Score: 0/100
+Status: Poor alignment
